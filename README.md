@@ -1,5 +1,5 @@
 project:
-  title: 🛑 Driver Drowsiness Detection
+  itle: 🛑 Driver Drowsiness Detection
   tagline: "Because a blink too long can cost a life."
   description: >
     A real-time system that monitors signs of drowsiness in drivers using facial landmark detection. 
