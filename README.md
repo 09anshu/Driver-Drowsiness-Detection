@@ -58,7 +58,4 @@ future_scope:
   - 📦 Package as a standalone desktop app
   - 📱 Extend for use in mobile applications
 
-note: |
-  ⚠️ This project is for educational and demo purposes only. Not intended for deployment in real-world vehicles without further testing.
 
-license: MIT
